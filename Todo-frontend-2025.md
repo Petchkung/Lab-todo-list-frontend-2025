@@ -1059,7 +1059,7 @@ npm run dev
 
 ## บันทึกรูปผลการทดลอง
 
-<img width="1472" height="499" alt="image" src="https://github.com/user-attachments/assets/5ae925ce-c1b7-4775-a1d7-367800a750cf" />
+<img width="1773" height="555" alt="image" src="https://github.com/user-attachments/assets/41aeab04-78f2-4a82-a89e-81a6135a6b78" />
 
 
 ### ขั้นตอนที่ 8.4: Test Build
